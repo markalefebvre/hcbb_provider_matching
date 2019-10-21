@@ -1,6 +1,7 @@
 # hcbb_provider_matching
 
-In order to run the code save the initial data (provider_data.txt) and the python file (provider_solution.py) to a folder.  
+In order to run the code save the initial data (provider_data.txt) and the python file (provider_solution.py) to a folder. 
+Open a terminal/bash/commandline.  Go to the file location and run python provider_solution.py.
 
 Important adjustable parameters within the python script that will alter the outcome of the results include, but are not limited to: thres_count, counts, fuzz_thres, and sample_n.
 
